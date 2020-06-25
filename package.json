@@ -1,0 +1,20 @@
+{
+  "name": "sod-gearBuilder",
+  "version": "1.0.0",
+  "description": "Gear building module for Shards of Dalaya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quizart/sod-gearBuilder.git"
+  },
+  "keywords": [],
+  "author": "Quizart <Quizart@gmail.com> (https://github.com/Quizart)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Quizart/sod-gearBuilder/issues"
+  },
+  "homepage": "https://github.com/Quizart/sod-gearBuilder#readme"
+}
